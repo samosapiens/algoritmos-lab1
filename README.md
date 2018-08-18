@@ -2,6 +2,7 @@
 ---
 
 1. (25 Puntos) Publique (fork) el trabajo realizado en las Lecturas 1 a 5 de www.quantopian.com en su cuenta de Github:
+        
         1. Lecture 1 Introduction to Research A simple tutorial to help you get up to speed in the research environment. 
         2. Lecture 2 Introduction to Python Some basic tools for working in the language. 
         3. Lecture 3 Introduction to NumPy How to use NumPy for computing on data. 
@@ -9,6 +10,7 @@
         5. Lecture 5 Plotting Data A brief primer.
         
 2. (15 puntos) Fibonacci:
+        
         1. Desarrolle programas iterativos que calculen el n termino de la  la serie de Fibonacci  en Java y C-C++, usando todos 
         los tipos de variables enteras disponibles en cada lenguaje, y determine para tipo para que valor de n se produce un overflow.
         2. Desarrolle un programas iterativo que calculen el n termino de la  la serie de Fibonacci  en Python que retorne el 
